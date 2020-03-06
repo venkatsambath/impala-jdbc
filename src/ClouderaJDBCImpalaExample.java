@@ -23,7 +23,7 @@ public class ClouderaJDBCImpalaExample {
 	private static final String IMPALAD_JDBC_PORT = "21050";
 
 	private static final String CONNECTION_URL = "jdbc:impala://" + IMPALAD_HOST1 + ':' + IMPALAD_JDBC_PORT + "/;" +
-			"AuthMech=1;KrbRealm=CITIDSE.COM;KrbHostFQDN=xxx-xxx;KrbServiceName=impala;";
+			"AuthMech=1;KrbRealm=REALM;KrbHostFQDN=xxx-xxx;KrbServiceName=impala;";
 
 	private static final String JDBC_DRIVER_NAME = "com.cloudera.impala.jdbc4.Driver";
 
