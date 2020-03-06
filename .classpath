@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.24.1043 GA/Cloudera_ImpalaJDBC41_2.5.24/hive_metastore.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.24.1043 GA/Cloudera_ImpalaJDBC41_2.5.24/hive_service.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.24.1043 GA/Cloudera_ImpalaJDBC41_2.5.24/ImpalaJDBC41.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.24.1043 GA/Cloudera_ImpalaJDBC41_2.5.24/libfb303-0.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.24.1043 GA/Cloudera_ImpalaJDBC41_2.5.24/libthrift-0.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.24.1043 GA/Cloudera_ImpalaJDBC41_2.5.24/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.24.1043 GA/Cloudera_ImpalaJDBC41_2.5.24/ql.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.24.1043 GA/Cloudera_ImpalaJDBC41_2.5.24/slf4j-api-1.5.11.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.24.1043 GA/Cloudera_ImpalaJDBC41_2.5.24/slf4j-log4j12-1.5.11.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.24.1043 GA/Cloudera_ImpalaJDBC41_2.5.24/TCLIServiceClient.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.24.1043 GA/Cloudera_ImpalaJDBC41_2.5.24/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/hive_metastore.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/hive_service.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/httpclient-4.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/httpcore-4.1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/ImpalaJDBC4.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/libfb303-0.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/libthrift-0.9.0.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/ql.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/slf4j-api-1.5.11.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/slf4j-log4j12-1.5.11.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/TCLIServiceClient.jar"/>
+	<classpathentry kind="lib" path="/Users/venkat/Downloads/2.5.32.1052 GA/Cloudera_ImpalaJDBC4_2.5.32/zookeeper-3.4.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

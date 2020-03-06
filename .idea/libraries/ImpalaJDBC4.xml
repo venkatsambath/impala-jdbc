@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ImpalaJDBC4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/ClouderaImpalaJDBC-2.6.15.1017/ClouderaImpalaJDBC4-2.6.15.1017/ImpalaJDBC4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
